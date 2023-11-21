@@ -7,7 +7,7 @@ A Distributed Denial of Service (DDoS) attack is an attempt to make an online se
 
 ## NOTE (Please, make sure you have installed python 3 )
 
-![dddd](https://user-images.githubusercontent.com/49250151/96265488-57e53d00-0f7a-11eb-8936-ce2e9a2c42cd.PNG)
+![dddd](https://github.com/Zilzath/RedSaton/assets/150271252/5cf18ad2-de4b-48d1-943a-dd80990c96f7)
 
 ## For Termux
 To use the RedSaton DDos type the following commands in Termux:
