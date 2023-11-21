@@ -26,7 +26,7 @@ To use the RedSaton DDos type the following commands in Termux:
 
 `$ python3 redsaton.py` 
 
-## USGAE
+## USAGE
 `python3 redsaton.py -s [ip Address] -p 80 -t 135`
 
 `example: python3 redsaton.py -s 0.00.00.00 -p 80 -t 135`
