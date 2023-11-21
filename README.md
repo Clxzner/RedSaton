@@ -21,6 +21,7 @@ To use the RedSaton DDos type the following commands in Termux:
 `git clone https://github.com/Zilzath/RedSaton.git`
 
 `cd RedSaton`
+
 `$ ls`
 
 `$ python3 redsaton.py` 
@@ -34,9 +35,14 @@ To use the RedSaton DDos type the following commands in Termux:
 To use the application, type in the following commands in GNU/Linux terminal.
 
 `sudo apt install git`
-`git clone https://github.com/Zilzath/RedSaton.git`
+
+`git clone 
+https://github.com/Zilzath/RedSaton.git`
+
 `cd RedSaton`
+
 `$ ls`
+
 `$ python3 redsaton.py` OR `python2 redsaton.py`
 
 ## For Windows
@@ -44,6 +50,7 @@ To use the application, type in the following commands in GNU/Linux terminal.
 `git clone https://github.com/Zilzath/RedSaton`
 
 `cd RedSaton`
+
 ` ls`
 
 `python3 redsaton.py` OR `python redsaton.py`
@@ -51,10 +58,6 @@ To use the application, type in the following commands in GNU/Linux terminal.
 `python3 redsaton.py -s [ip Address] -p 80 -t 135`
 
 `example: python3 redsaton.py -s 0.00.00.00 -p 80 -t 135`
-
-## For MacOS
-
-Install Brew and Install dependencies (python 3)
 
 # Note:
 If you find any problems than please write on issue github and to our Telegram Group. Don't use for revenge! Make sure your anonymity!
@@ -69,8 +72,6 @@ Thanks.
 ●📱Termux >
 
 ●🖥Windows
-
-●🖥MAC
 
 # Made by @Zilzath
 
